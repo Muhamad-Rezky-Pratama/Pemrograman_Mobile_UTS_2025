@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UTS_PEMROGRAMAN_MOBILE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="prodi_array">
+        <item>Informatika</item>
+        <item>Sistem Informasi</item>
+        <item>Teknik Industri</item>
+        <item>Teknik Sipil</item>
+    </string-array>
+    <string name="select_prodi">Pilih Program Studi</string>
+
+</resources>
